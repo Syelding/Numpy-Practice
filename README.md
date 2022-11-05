@@ -1,7 +1,7 @@
 ![Data Analysis](https://user-images.githubusercontent.com/91497834/186528452-b3d6b965-abba-4d0c-801a-bd76a3fabb91.png)
 
 # Data Analysis using Python
-Data Analysts and Data Scientists use Python for data analysis because the Python programming language is easy to understand, it is scalable and flexible, it has an extensive collection of libraries for numerical computation and data manipulation. On top of that, python provides libraries for data visualizations and their are millions of other python users who have created communities to help solve the many questions and for even collaboration.
+Data Analysts and Data Scientists use Python for data analysis because the Python programming language is easy to understand, it is scalable and flexible. In addition, it has an extensive collection of libraries for numerical computation and data manipulation. On top of that, python provides libraries for data visualizations.
 This project I will show you the skills I learned on how to use Python for Data Analysis. I will start by learning about the different libraries while including hands on practice utilizing Google Colab. Next, I will display my data cleaning skills and after the data has been cleaned I will show you some data visualizations.
 
 
